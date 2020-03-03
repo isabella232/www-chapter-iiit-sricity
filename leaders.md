@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Aman Gupta](mailto:aman.gupta@owasp.org)
+* [Ayush Bajirao](mailto:ayush.bajirao@owasp.org)
