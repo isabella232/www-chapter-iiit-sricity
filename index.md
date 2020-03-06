@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Indian Institute of Information Technology
+title: OWASP IIITS
 tags: example-tag
 region: 
 
