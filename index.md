@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP IIITS
+title: OWASP IIIT Sri City
 tags: example-tag
 region: Sri City, Andhra Pradesh
 
