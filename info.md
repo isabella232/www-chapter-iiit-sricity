@@ -5,3 +5,9 @@
 * [Twitter](https://twitter.com/OWASP_IIITS)
 
 
+### Become speaker
+* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Speaker Submissions](https://docs.google.com/forms/d/e/1FAIpQLSdAaGIcS1KC-9y-mv_DorSkxeSjN9mRxNBqibSEWXRzoihV0w/viewform)
+
+
+
