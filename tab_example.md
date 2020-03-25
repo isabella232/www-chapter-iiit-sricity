@@ -1,6 +1,5 @@
 ---
 title: Next Meeting
-layout:  null
 tab: true
 order: 1
 tags: Next Meeting
