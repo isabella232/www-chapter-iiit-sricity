@@ -1,7 +1,7 @@
 ---
-title: Next Meeting
+title: NextMeeting
 tab: true
-order: 2
+order: 1
 tags: iiit
 ---
 
