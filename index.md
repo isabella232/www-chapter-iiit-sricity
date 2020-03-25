@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP IIIT Sri City
-tags: Next Meeting
+tags: iiit
 region: Sri City, Andhra Pradesh
 
 ---
