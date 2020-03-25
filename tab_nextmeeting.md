@@ -20,4 +20,4 @@ Where and how to start *Aman Gupta*
 
 QnA, General Discussion and Feedback.
 
-Meetup [Link](https://www.meetup.com/OWASP-Indian-Institute-of-Info-Technology-Student-Chapter/)
+Meetup [Link](https://www.meetup.com/OWASP-IIIT-SRICITY/events/269646752/)
