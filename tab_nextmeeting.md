@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Next Meeting
 layout:  null
 tab: true
 order: 1
-tags: example-tab
+tags: iiits
 ---
 
 ## Example
