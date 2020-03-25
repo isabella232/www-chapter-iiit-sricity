@@ -3,7 +3,8 @@
 layout: col-sidebar
 title: OWASP IIIT Sri City
 tags: iiit
-region: Sri City, Andhra Pradesh
+level: 0
+region: Asia
 
 ---
 
