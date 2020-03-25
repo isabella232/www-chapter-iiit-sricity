@@ -7,7 +7,6 @@ tags: iiit
 
 
 # **Next Meeting**
-We will have our First meeting on.
 
 ### 30th March 2020
 
