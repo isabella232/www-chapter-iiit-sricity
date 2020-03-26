@@ -16,7 +16,7 @@ Introduction to OWASP IIIT Sri City Chapter.
 
 An Introduction to Web application security by *Ayush Bajirao & Piyush Pranav*
 
-Where and how to start *Aman Gupta*
+Where and how to start by *Aman Gupta*
 
 QnA, General Discussion and Feedback.
 
