@@ -2,7 +2,7 @@
 * Chapter Region -->
 
 
-![OWASP IIIT Sri City](LogoSriCity.png)
+![OWASP IIIT Sri City](OWASP_Sricity-03.png)
 ### Indian Institute of Information Technology
 
 ### Social Links
