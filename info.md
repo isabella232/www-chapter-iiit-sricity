@@ -3,7 +3,7 @@
 
 
 ![OWASP IIIT Sri City](OWASP_Sricity-03.png)
-### Indian Institute of Information Technology
+### OWASP IIIT Sri City
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Indian-Institute-of-Info-Technology-Student-Chapter/)
