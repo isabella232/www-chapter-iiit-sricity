@@ -9,14 +9,18 @@ region: Asia
 ---
 
 ## Welcome
-The OWASP chapter focuses on sharing the knowledge and spreading the awareness of information security.
-
+Welcome to the OWASP IIIT Sricity chapter homepage. The chapter leaders are Ayush Bajirao, Aman Gupta, Piyush Pranav.
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+To participate in OWASP IIIT Sricity events you can either:
+1. Attend the event(Follow the Nextmeeting tab).
+2. Join the event as a speaker.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-IIIT-SRICITY/) and follow us on<br>
+[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/OWASP_IIITS)<br>
+[Discord Group](https://discord.gg/SCg9gW)
+<h2>Become a Speaker</h2>
+Call For Speakers is open - If you would like to take session on any topic related to cyber security, we welcome you to OWASP IIIT Sricity Chapter - please review and agree with the [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via:
+[Speaker Form](https://docs.google.com/forms/d/e/1FAIpQLSdAaGIcS1KC-9y-mv_DorSkxeSjN9mRxNBqibSEWXRzoihV0w/viewform)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
