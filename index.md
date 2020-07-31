@@ -5,6 +5,9 @@ title: OWASP IIIT Sri City
 tags: iiit
 level: 0
 region: Asia
+meetup-group: OWASP-IIIT-SRICITY
+country: India
+postal-code: 
 
 ---
 
