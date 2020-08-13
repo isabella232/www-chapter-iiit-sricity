@@ -14,6 +14,6 @@ Session Details:
 
 Introduction to OWASP IIIT Sri City Chapter.
 
-Where & how to start by **Tanay Rathore**
+Cryptography by **Tanay Rathore**
 
 Meetup [link](https://www.meetup.com/OWASP-IIIT-SRICITY/events/272547282/)
