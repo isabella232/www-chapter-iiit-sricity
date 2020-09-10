@@ -1,5 +1,5 @@
-<!--### Chapter Information
-* Chapter Region -->
+Chapter Information
+
 
 
 ![OWASP IIIT Sri City](OWASP_Sricity-03.png)
