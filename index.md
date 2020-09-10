@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP IIIT Sri City
+title: OWASP IIIT Sri City Student Chapter
 tags: iiit
 level: 0
 region: Asia
@@ -13,6 +13,7 @@ postal-code:
 
 ## Welcome
 Welcome to the OWASP IIIT Sricity chapter homepage. The chapter leaders are <a href="mailto:ayush.bajirao@owasp.org">Ayush Bajirao</a>, <a href="mailto:aman.gupta@owasp.org">Aman Gupta</a>, <a href="mailto:piyush.pranav@owasp.org">Piyush Pranav</a>.
+
 ## Participation
 To participate in OWASP IIIT Sricity events you can either:
 1. Attend the event(Follow the Nextmeeting tab).
