@@ -12,8 +12,6 @@ tags: iiit
 
 Session Details:
 
-Introduction to OWASP IIIT Sri City Chapter.
+How To Land A Job In Cybersecurity And Pursue Higher Education by **Mukul Naraine**
 
-Cryptography by **Tanay Rathore**
-
-Meetup [link](https://www.meetup.com/OWASP-IIIT-SRICITY/events/272547282/)
+Meetup [link](https://www.meetup.com/OWASP-IIIT-SRICITY/events/277398381/)
