@@ -8,7 +8,7 @@ tags: iiit
 
 # **Next Meeting**
 
-### 20th August 2020
+### 10th April 2021
 
 Session Details:
 
