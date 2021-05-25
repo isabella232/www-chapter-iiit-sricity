@@ -26,5 +26,5 @@ For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-IIIT-SRICIT
 [Discord Group](https://discord.gg/SCg9gW)
 <h2>Become a Speaker</h2>
 Call For Speakers is open - If you would like to take session on any topic related to cyber security, we welcome you to OWASP IIIT Sricity Chapter - please review and agree with the [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via:
-[Speaker Form](https://docs.google.com/forms/d/e/1FAIpQLSdAaGIcS1KC-9y-mv_DorSkxeSjN9mRxNBqibSEWXRzoihV0w/viewform)
+
 
