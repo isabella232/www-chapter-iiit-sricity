@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP IIIT Sri City Student Chapter
+title: OWASP IIIT Sri City - Student Chapter
 tags: iiit
 level: 0
 region: Asia
@@ -20,6 +20,8 @@ To participate in OWASP IIIT Sricity events you can either:
 2. Join the event as a speaker.
 
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-IIIT-SRICITY/) and follow us on<br>
+{% include chapter_events.html group=page.meetup-group %}
+
 [![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/OWASP_IIITS)<br>
 [Discord Group](https://discord.gg/SCg9gW)
 <h2>Become a Speaker</h2>
